@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BroadcastService
 {
-    [ServiceContract]
+    [ServiceContract(CallbackContract = typeof(IBroadcastCallback))]
     public interface IBroadcast
     {
         [OperationContract(IsOneWay = true)]
