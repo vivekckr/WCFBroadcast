@@ -1,0 +1,11 @@
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\bin\Debug\ServiceHost.exe.config
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\bin\Debug\ServiceHost.exe
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\bin\Debug\ServiceHost.pdb
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\bin\Debug\BroadcastService.dll
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\bin\Debug\BroadcastService.pdb
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\bin\Debug\BroadcastService.dll.config
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\obj\Debug\ServiceHost.csprojAssemblyReference.cache
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\obj\Debug\ServiceHost.csproj.CoreCompileInputs.cache
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\obj\Debug\ServiceHost.csproj.CopyComplete
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\obj\Debug\ServiceHost.exe
+E:\WCFBroadcast\Server\BroadcastService\ServiceHost\obj\Debug\ServiceHost.pdb

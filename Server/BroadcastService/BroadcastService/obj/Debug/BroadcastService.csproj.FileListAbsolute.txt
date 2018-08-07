@@ -1,0 +1,6 @@
+E:\WCFBroadcast\Server\BroadcastService\BroadcastService\bin\Debug\BroadcastService.dll.config
+E:\WCFBroadcast\Server\BroadcastService\BroadcastService\bin\Debug\BroadcastService.dll
+E:\WCFBroadcast\Server\BroadcastService\BroadcastService\bin\Debug\BroadcastService.pdb
+E:\WCFBroadcast\Server\BroadcastService\BroadcastService\obj\Debug\BroadcastService.csproj.CoreCompileInputs.cache
+E:\WCFBroadcast\Server\BroadcastService\BroadcastService\obj\Debug\BroadcastService.dll
+E:\WCFBroadcast\Server\BroadcastService\BroadcastService\obj\Debug\BroadcastService.pdb
