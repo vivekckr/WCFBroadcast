@@ -20,17 +20,18 @@ namespace BroadcastService
                 var inactiveClients = new List<string>();
                 foreach (var client in clients)
                 {
-                    if (client.Key != data.ClientName)
+                    //in case if you don't wanna notify the sender client us this if condition
+                    //if (client.Key != data.ClientName)
+                    //{
+                    try
                     {
-                        try
-                        {
-                            client.Value.BroadcastToAllClient(data);
-                        }
-                        catch (Exception ex)
-                        {
-                            inactiveClients.Add(client.Key);
-                        }
+                        client.Value.BroadcastToAllClient(data);
                     }
+                    catch (Exception ex)
+                    {
+                        inactiveClients.Add(client.Key);
+                    }
+                    //}
                 }
 
                 if (inactiveClients.Count > 0)

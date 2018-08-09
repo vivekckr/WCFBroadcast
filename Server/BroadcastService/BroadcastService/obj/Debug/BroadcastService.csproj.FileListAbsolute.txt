@@ -4,3 +4,4 @@ E:\WCFBroadcast\Server\BroadcastService\BroadcastService\bin\Debug\BroadcastServ
 E:\WCFBroadcast\Server\BroadcastService\BroadcastService\obj\Debug\BroadcastService.csproj.CoreCompileInputs.cache
 E:\WCFBroadcast\Server\BroadcastService\BroadcastService\obj\Debug\BroadcastService.dll
 E:\WCFBroadcast\Server\BroadcastService\BroadcastService\obj\Debug\BroadcastService.pdb
+E:\WCFBroadcast\Server\BroadcastService\BroadcastService\obj\Debug\BroadcastService.csprojAssemblyReference.cache
