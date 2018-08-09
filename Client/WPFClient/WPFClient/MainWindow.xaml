@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="524.436" Width="488.722">
+    <StackPanel Orientation="Vertical">
+        <Label x:Name="ClientID" Height="63" Content="{Binding ClientID}" FontWeight="Bold" FontSize="16"/>
+        <TextBox x:Name="MessageBox" Height="66" Text="{Binding Message}"/>
+        <Button Content="Send" Height="54" Margin="134,0,106,0" Command="{Binding OnBroadcastmessage}"/>
+        <Label FontWeight="Bold" FontSize="14">Broadcast Message</Label>
+        <TextBlock Height="243" x:Name="textblock" Text="{Binding BroadcastMessage}"/>
+
+    </StackPanel>
+</Window>
