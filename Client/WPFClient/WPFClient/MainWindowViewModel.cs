@@ -67,8 +67,6 @@ namespace WPFClient
             }
         }
 
-        
-
         public MainWindowViewModel()
         {
             // find any other way to create unique client display id
@@ -92,7 +90,7 @@ namespace WPFClient
                 if (this.BroadcastMessage != "")
                     this.BroadcastMessage += "\r\n";
 
-                this.BroadcastMessage += string.Format("{0} (from {1})", eventData.Message, eventData.ClientName);
+                this.BroadcastMessage += string.Format("{0} (From {1})", eventData.Message, eventData.ClientName);
             }
             catch (Exception ex)
             {
